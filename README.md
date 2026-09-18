@@ -25,11 +25,11 @@ IT engineer based in Saitama. I build tools for my own work and study.
 Notes on what I make and think are on [gridhra.com](https://gridhra.com) and
 [Cosense](https://scrapbox.io/aquila).
 
-Interests: web development, image processing, language learning, web planetarium.
+Interests: astronomy, geography, mythology, philosophy, literature and poetry, film, law, art, organizations and management.
 
 埼玉在住のITエンジニア。仕事や学びに使う道具を自作しています。制作物の記録や考えたことは[gridhra.com](https://gridhra.com)と[Cosense](https://scrapbox.io/aquila)に書いています。
 
-関心範囲: Web開発、画像処理、語学学習、Webプラネタリウム。
+関心範囲: 天文学、地理、神話、哲学、文学・詩、映画、法学、美術、組織とマネジメント。
 
 ## Developer tooling
 
@@ -52,7 +52,7 @@ Interests: web development, image processing, language learning, web planetarium
 
 ## Elsewhere
 
-- Writing and notes: [gridhra.com](https://gridhra.com) · [Cosense](https://scrapbox.io/aquila)
-- The web planetarium [Asterarium](https://gridhra.com/articles/asterarium-tech/) and its technical notes live on my site.
+- Apps and web art not hosted on GitHub: [Works](https://gridhra.com/works/) · [Gallery](https://gridhra.com/gallery/)
+- Notes and essays: [Cosense](https://scrapbox.io/aquila)
 
 <sub>Profile icon: portrait drawn by <a href="https://x.com/misumaru11">@misumaru11</a>.</sub>
