@@ -48,7 +48,6 @@ Interests: astronomy, geography, mythology, philosophy, literature and poetry, f
 | **[port-keeper-mcp](https://github.com/gridhra/port-keeper-mcp)** &nbsp;`Go` | A local ledger for development ports. Leases a block of ports per project slot, renders env files, and resolves service names to URLs, so several working copies of one stack can run at the same time. No daemon, no listener, no secrets. |
 | **[atx-mcp](https://github.com/gridhra/atx-mcp)** &nbsp;`Rust` | Deterministic, non-generative image transforms: straighten, crop, mask, layer, and encode as reproducible recipes over immutable originals. Listed in [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers). |
 | **[claude-samruk](https://github.com/gridhra/claude-samruk)** | A resident research studio. Findings accumulate in a two-layer knowledge base under intelligence-analysis discipline: conclusion first, graded sources, explicit confidence. |
-| **[claude-dbd](https://github.com/gridhra/claude-dbd)** &nbsp;`TypeScript` | Daily task management from the terminal. Local-first, git-tracked, driven by slash commands. |
 | **[actions](https://github.com/gridhra/actions)** | Composite GitHub Actions I reuse across repositories. |
 | **[php-oasv](https://github.com/gridhra/php-oasv)** &nbsp;`PHP` | A thin wrapper around openapi-psr7-validator for request/response testing. |
 
