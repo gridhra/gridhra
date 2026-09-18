@@ -57,6 +57,5 @@ Interests: astronomy, geography, mythology, philosophy, literature and poetry, f
 |---|---|
 | **[mnemorize](https://github.com/gridhra/mnemorize)** &nbsp;`TypeScript` | Opinionated, local-first spaced repetition with offline Whisper, for Japanese. |
 | **[kkj-mcp](https://github.com/gridhra/kkj-mcp)** &nbsp;`TypeScript` | Search and fetch notices from Japan's public procurement portal（官公需情報ポータルサイト）. Runs over stdio, HTTP, or Cloudflare Workers. |
-| **[simple-prompt-holder-in-chrome](https://github.com/gridhra/simple-prompt-holder-in-chrome)** &nbsp;`TypeScript` | A Chrome extension that keeps frequently used prompts one click away. |
 
 <sub>Profile icon: portrait drawn by <a href="https://x.com/misumaru11">@misumaru11</a>.</sub>
