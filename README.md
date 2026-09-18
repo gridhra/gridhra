@@ -27,15 +27,15 @@ Notes on what I make and think are on [gridhra.com](https://gridhra.com) and
 
 Interests: astronomy, geography, mythology, philosophy, literature and poetry, film, law, art, organizations and management.
 
-埼玉在住のITエンジニア。仕事や学びに使う道具を自作しています。制作物の記録や考えたことは[gridhra.com](https://gridhra.com)と[Cosense](https://scrapbox.io/aquila)に書いています。
+埼玉在住のITエンジニアです。仕事や学びに使う道具を自作しています。制作物の記録や考えたことは[gridhra.com](https://gridhra.com)と[Cosense](https://scrapbox.io/aquila)に書いています。
 
-関心範囲: 天文学、地理、神話、哲学、文学・詩、映画、法学、美術、組織とマネジメント。
+関心のある分野は、天文学、地理、神話、哲学、文学・詩、映画、法学、美術、組織とマネジメントです。
 
 ## Works
 
 **[Asterarium](https://asterarium.com/)** — A planetarium in the browser. Pick a place on Earth and a date and time, and the sky as it actually appears there is drawn from a catalogue of about 40,000 real stars: star colours from surface temperature, diurnal motion, twilight, lunar phases, planetary positions, the 88 constellations, and light pollution, all computed from real astronomy to roughly one arcminute. [Technical notes](https://asterarium.com/about/tech/).
 
-ブラウザで動くプラネタリウム。地球上の場所と日時を選ぶと、その時その場所の実際の空が現れる。約4万個の実在する星をカタログから描画し、星の色（表面温度）・日周運動・薄明・月の満ち欠け・惑星の位置・88星座・光害の影響まで、すべて実際の天文計算（おおむね1分角の精度）に基づいて表示する。
+ブラウザで動くプラネタリウムです。地球上の場所と日時を選ぶと、その時その場所の実際の空が現れます。約4万個の実在する星をカタログから描画し、星の色（表面温度）・日周運動・薄明・月の満ち欠け・惑星の位置・88星座・光害の影響まで、すべて実際の天文計算（おおむね1分角の精度）に基づいて表示します。
 
 **[司法試験CBT練習](https://eagle-web-cbt.pages.dev/)** — Practice app for the computer-based bar and preliminary exams starting in 2026. Answers and settings stay in the browser.
 
