@@ -21,12 +21,13 @@
   <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white">
 </p>
 
-IT engineer based in Saitama. I build tools for my own work and study, and
-write on [gridhra.com](https://gridhra.com).
+IT engineer based in Saitama. I build tools for my own work and study.
+Notes on what I make and think are on [gridhra.com](https://gridhra.com) and
+[Cosense](https://scrapbox.io/aquila).
 
 Interests: web development, image processing, language learning, web planetarium.
 
-埼玉在住のITエンジニア。仕事と学びのための道具を作り、[gridhra.com](https://gridhra.com)に書いています。
+埼玉在住のITエンジニア。仕事や学びに使う道具を自作しています。制作物の記録や考えたことは[gridhra.com](https://gridhra.com)と[Cosense](https://scrapbox.io/aquila)に書いています。
 
 関心範囲: Web開発、画像処理、語学学習、Webプラネタリウム。
 
