@@ -19,36 +19,33 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
   <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white">
-  <img alt="MCP" src="https://img.shields.io/badge/Model_Context_Protocol-111111?style=flat-square">
 </p>
 
-I build small, deterministic tools that make AI coding agents useful in practice:
-MCP servers, Claude Code environments, and the local infrastructure agents need
-to run side by side.
+IT engineer based in Saitama. I build tools for my own work and study, and
+write about the rest on [gridhra.com](https://gridhra.com): web development,
+image processing, language learning, a web planetarium, and whatever else
+catches my attention.
 
-AIエージェントを実務で使うための小さな道具を作っています。MCPサーバー、Claude Code向けの環境、並列で動くエージェントのためのローカル基盤など。
+埼玉在住のITエンジニア。自分の仕事と学びのための道具を作り、その他のことは[gridhra.com](https://gridhra.com)に書いています。Web開発、画像処理、語学学習、Webプラネタリウムなど、興味の向く先はさまざまです。
 
-## MCP servers
-
-| | |
-|---|---|
-| **[atx-mcp](https://github.com/gridhra/atx-mcp)** &nbsp;`Rust` | Deterministic, non-generative image transform server for AI agents. Straighten, crop, mask, layer, and encode as reproducible recipes over immutable originals. Listed in [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers). |
-| **[port-keeper-mcp](https://github.com/gridhra/port-keeper-mcp)** &nbsp;`Go` | A local ledger for development ports, served over MCP. Gives every parallel coding agent its own ports so each one can run the whole stack at the same time. No daemon, no listener, no secrets. |
-| **[kkj-mcp](https://github.com/gridhra/kkj-mcp)** &nbsp;`TypeScript` | MCP server for Japan's public procurement portal API（官公需情報ポータルサイト）. Runs over stdio, HTTP, or Cloudflare Workers. |
-
-## Claude Code environments
+## Developer tooling
 
 | | |
 |---|---|
-| **[claude-samruk](https://github.com/gridhra/claude-samruk)** | A resident research studio for Claude Code. Orchestrator and worker agents are split so raw data never enters the orchestrator's context, and findings accumulate in a two-layer knowledge base with intelligence-analysis discipline (BLUF, source grading, explicit confidence). |
-| **[claude-dbd](https://github.com/gridhra/claude-dbd)** &nbsp;`TypeScript` | Daily task management for the Claude Code CLI. Local-first, git-tracked, driven by slash commands. |
+| **[port-keeper-mcp](https://github.com/gridhra/port-keeper-mcp)** &nbsp;`Go` | A local ledger for development ports. Leases a block of ports per project slot, renders env files, and resolves service names to URLs, so several working copies of one stack can run at the same time. No daemon, no listener, no secrets. |
+| **[atx-mcp](https://github.com/gridhra/atx-mcp)** &nbsp;`Rust` | Deterministic, non-generative image transforms: straighten, crop, mask, layer, and encode as reproducible recipes over immutable originals. Listed in [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers). |
+| **[claude-samruk](https://github.com/gridhra/claude-samruk)** | A resident research studio. Findings accumulate in a two-layer knowledge base under intelligence-analysis discipline: conclusion first, graded sources, explicit confidence. |
+| **[claude-dbd](https://github.com/gridhra/claude-dbd)** &nbsp;`TypeScript` | Daily task management from the terminal. Local-first, git-tracked, driven by slash commands. |
+| **[actions](https://github.com/gridhra/actions)** | Composite GitHub Actions I reuse across repositories. |
+| **[php-oasv](https://github.com/gridhra/php-oasv)** &nbsp;`PHP` | A thin wrapper around openapi-psr7-validator for request/response testing. |
 
-## Other projects
+## Study and everyday use
 
-- **[mnemorize](https://github.com/gridhra/mnemorize)** `TypeScript` — Opinionated, local-first spaced repetition with offline Whisper, for Japanese.
-- **[simple-prompt-holder-in-chrome](https://github.com/gridhra/simple-prompt-holder-in-chrome)** `TypeScript` — A Chrome extension that keeps frequently used prompts one click away.
-- **[php-oasv](https://github.com/gridhra/php-oasv)** `PHP` — A thin wrapper around openapi-psr7-validator for request/response testing.
-- **[actions](https://github.com/gridhra/actions)** — Composite GitHub Actions I reuse across repositories.
+| | |
+|---|---|
+| **[mnemorize](https://github.com/gridhra/mnemorize)** &nbsp;`TypeScript` | Opinionated, local-first spaced repetition with offline Whisper, for Japanese. |
+| **[kkj-mcp](https://github.com/gridhra/kkj-mcp)** &nbsp;`TypeScript` | Search and fetch notices from Japan's public procurement portal（官公需情報ポータルサイト）. Runs over stdio, HTTP, or Cloudflare Workers. |
+| **[simple-prompt-holder-in-chrome](https://github.com/gridhra/simple-prompt-holder-in-chrome)** &nbsp;`TypeScript` | A Chrome extension that keeps frequently used prompts one click away. |
 
 ## Elsewhere
 
