@@ -31,6 +31,16 @@ Interests: astronomy, geography, mythology, philosophy, literature and poetry, f
 
 関心範囲: 天文学、地理、神話、哲学、文学・詩、映画、法学、美術、組織とマネジメント。
 
+## Works
+
+**[Asterarium](https://asterarium.com/)** — A planetarium in the browser. Pick a place on Earth and a date and time, and the sky as it actually appears there is drawn from a catalogue of about 40,000 real stars: star colours from surface temperature, diurnal motion, twilight, lunar phases, planetary positions, the 88 constellations, and light pollution, all computed from real astronomy to roughly one arcminute. [Technical notes](https://gridhra.com/articles/asterarium-tech/).
+
+ブラウザで動くプラネタリウム。地球上の場所と日時を選ぶと、その時その場所の実際の空が現れる。約4万個の実在する星をカタログから描画し、星の色（表面温度）・日周運動・薄明・月の満ち欠け・惑星の位置・88星座・光害の影響まで、すべて実際の天文計算（おおむね1分角の精度）に基づいて表示する。
+
+**[司法試験CBT練習](https://eagle-web-cbt.pages.dev/)** — Practice app for the computer-based bar and preliminary exams starting in 2026. Answers and settings stay in the browser.
+
+**[Gallery](https://gridhra.com/gallery/)** — Eight web works on mythology, philosophy, literature, and terrain.
+
 ## Developer tooling
 
 | | |
@@ -49,10 +59,5 @@ Interests: astronomy, geography, mythology, philosophy, literature and poetry, f
 | **[mnemorize](https://github.com/gridhra/mnemorize)** &nbsp;`TypeScript` | Opinionated, local-first spaced repetition with offline Whisper, for Japanese. |
 | **[kkj-mcp](https://github.com/gridhra/kkj-mcp)** &nbsp;`TypeScript` | Search and fetch notices from Japan's public procurement portal（官公需情報ポータルサイト）. Runs over stdio, HTTP, or Cloudflare Workers. |
 | **[simple-prompt-holder-in-chrome](https://github.com/gridhra/simple-prompt-holder-in-chrome)** &nbsp;`TypeScript` | A Chrome extension that keeps frequently used prompts one click away. |
-
-## Elsewhere
-
-- Apps and web art not hosted on GitHub: [Works](https://gridhra.com/works/) · [Gallery](https://gridhra.com/gallery/)
-- Notes and essays: [Cosense](https://scrapbox.io/aquila)
 
 <sub>Profile icon: portrait drawn by <a href="https://x.com/misumaru11">@misumaru11</a>.</sub>
