@@ -53,6 +53,6 @@ AIエージェントを実務で使うための小さな道具を作っていま
 ## Elsewhere
 
 - Writing and notes: [gridhra.com](https://gridhra.com) · [Cosense](https://scrapbox.io/aquila)
-- The web planetarium [Asterarium](https://gridhra.com) lives on my site.
+- The web planetarium [Asterarium](https://gridhra.com/articles/asterarium-tech/) and its technical notes live on my site.
 
 <sub>Profile icon: portrait drawn by <a href="https://x.com/misumaru11">@misumaru11</a>.</sub>
