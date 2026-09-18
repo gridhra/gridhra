@@ -22,11 +22,13 @@
 </p>
 
 IT engineer based in Saitama. I build tools for my own work and study, and
-write about the rest on [gridhra.com](https://gridhra.com): web development,
-image processing, language learning, a web planetarium, and whatever else
-catches my attention.
+write on [gridhra.com](https://gridhra.com).
 
-埼玉在住のITエンジニア。自分の仕事と学びのための道具を作り、その他のことは[gridhra.com](https://gridhra.com)に書いています。Web開発、画像処理、語学学習、Webプラネタリウムなど、興味の向く先はさまざまです。
+Interests: web development, image processing, language learning, web planetarium.
+
+埼玉在住のITエンジニア。仕事と学びのための道具を作り、[gridhra.com](https://gridhra.com)に書いています。
+
+関心範囲: Web開発、画像処理、語学学習、Webプラネタリウム。
 
 ## Developer tooling
 
